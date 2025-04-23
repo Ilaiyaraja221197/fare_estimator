@@ -16,8 +16,8 @@ It calculates fares dynamically based on:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone git@github.com:Ilaiyaraja221197/fare_estimator.git
+cd fare_estimator
 ```
 
 ### 2. Backend Setup (Laravel)
